@@ -20,3 +20,7 @@ _site/
 
 config.yaml
 .venv/
+
+# Personal files
+/GPX_OUT/*.gpx
+/run_page/*.db
